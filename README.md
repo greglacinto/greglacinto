@@ -35,7 +35,7 @@ Hi,I'm Gregory Odiase, a Front end Web Developer and a Finacle customization eng
 - React js
 - Angular 13
 - git
-- Connect24
+- Finacle Connect24
 - SQL
 - html/css/javascript
 
