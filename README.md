@@ -41,7 +41,9 @@ Hi,I'm Gregory Odiase, a Front end Web Developer and a Finacle customization eng
 
 **Projects**
 - https://valandgreg.netlify.app/app 
+- https://sydnyofficial.com/
 - https://gregoryjs-hng-stage2.netlify.app/
+
 
 
 
