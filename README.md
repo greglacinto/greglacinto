@@ -23,8 +23,8 @@ Hi,I'm Gregory Odiase, a Front end Web Developer and a Finacle customization eng
 **Talking about Personal Stuffs:**
 
 - 🔭 I currently work at CWG
-- 🔭 I also currently Intern at Hng.
-- 👯 Part of Developer Community.
+- 🔭 I previously Interned at Hng.
+- 👯 Part of a local Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 
@@ -32,8 +32,8 @@ Hi,I'm Gregory Odiase, a Front end Web Developer and a Finacle customization eng
 
 **Languages and Tools:**
 
-- Angular 13
 - React js
+- Angular 13
 - git
 - Connect24
 - SQL
