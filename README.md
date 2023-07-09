@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Gregory.js!](https://greglacinto.github.io/MyPortfolio/)
+### Hello World 👋 It's [Gregory.js!](https://gregcodes.netlify.app/)
 
 <br/>
 
