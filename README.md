@@ -14,35 +14,33 @@
 
 <br />
 
-Hi,I'm Gregory Odiase, a Front end Web Developer and a Finacle customization engineer. I enjoy reading and Problem Solving.❤✌
+Hi, I'm Gregory Odiase, a Full Stack Web Developer, and a Finacle customization engineer. I enjoy reading and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 🔭 I have worked with Primeview, Computer Warehouse Group (CWG), United Bank for Africa, etc
 - 🔭 I previously Interned at Hng.
 - 👯 Part of a local Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
+- 💬 Ask me about anything, I Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 
 
 
 **Languages and Tools:**
 
-- React js
-- Angular 13
+- React js/Angular 13+
+- Node js
 - git
 - Finacle Connect24
 - SQL
 - html/css/javascript
 
 **Projects**
-- https://valandgreg.netlify.app/app ==> A wedding website
-- https://sydnyofficial.com/ ==> A Music artiste portfolio
-- https://gregoryjs-hng-stage2.netlify.app/ ==> A developer's portfolio
+- Available on request
 
 
 
