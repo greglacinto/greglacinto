@@ -1,10 +1,8 @@
-### Hello World 👋 It's [Gregory.js!](https://gregcodes.netlify.app/)
+### Hello World 👋 It's [Gregory.js!](https://gregoryodiase.com/)
 
 <br/>
 
 
-<a href="https://twitter.comhttps://twitter.com/Greg_lacinto20">
-<img align="left" alt="Gregory Odiase | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="www.linkedin.com/in/dev-gregory-odiase/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -26,18 +24,19 @@ Hi, I'm Gregory Odiase, a Full Stack Web Developer, and a Finacle customization 
 - 🔭 I previously Interned at Hng.
 - 👯 Part of a local Developer Community.
 - 💬 Ask me about anything, I Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
+- 📫 Best way to reach me is LinkedIn 
 
 
 
 **Languages and Tools:**
 
 - React js/Angular 13+
-- Node js
+- Node js/Nestjs
 - git
 - Finacle Connect24
 - SQL
 - html/css/javascript
+- Python
 
 **Projects**
 - Available on request
