@@ -21,7 +21,6 @@ Hi, I'm Gregory Odiase, a Full Stack Web Developer, and a Finacle customization 
 **Talking about Personal Stuff:**
 
 - 🔭 I have worked with Primeview, Computer Warehouse Group (CWG), United Bank for Africa, etc
-- 🔭 I previously Interned at Hng.
 - 👯 Part of a local Developer Community.
 - 💬 Ask me about anything, I Would love to answer them.✌
 - 📫 Best way to reach me is LinkedIn 
