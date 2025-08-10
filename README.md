@@ -50,6 +50,8 @@ With 4+ years of experience in **fintech, AI, and enterprise systems**, I specia
 
 ![Gregory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=greglacinto&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greglacinto&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=greglacinto&theme=tokyonight)
+
 
 ---
 
