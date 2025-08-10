@@ -3,7 +3,7 @@
 💻 **Full Stack Developer** | 🌐 *React, Node.js, Python, AWS* | 🔗 *Scalable Web & Mobile Solutions*
 
 I build **high-performance, scalable applications** that solve real-world problems.  
-With 5+ years of experience in **fintech, AI, and enterprise systems**, I specialize in:
+With 4+ years of experience in **fintech, AI, and enterprise systems**, I specialize in:
 - **Microservices Architecture**
 - **API-First Development**
 - **Cloud-Native Solutions**
@@ -32,29 +32,24 @@ With 5+ years of experience in **fintech, AI, and enterprise systems**, I specia
 ## 📌 Featured Projects
 
 ### 🧠 AI Chatbot Translation Service
-**Tech Stack:** React, Node.js, GraphQL, Redis, AWS, OpenAI API  
+**Tech Stack:** React, Node.js, AWS, OpenAI API  
 - Real-time product translation for international users.
 - Microservices architecture with caching for performance boost.  
-[🔗 View Repo](#) | [🌐 Live Demo](#)
+[🌐 Live Demo](https://fred-frontend.vercel.app/home)
 
-### 💳 Fintech Payment Processing Platform
-**Tech Stack:** Node.js, Express.js, OracleDB, AWS  
-- Secure multi-gateway payment processing.
-- Handles 1,000+ daily transactions with 99.9% uptime.  
-[🔗 View Repo](#) | [🌐 Live Demo](#)
-
-### 🏦 Core Banking Application (UBA)
-**Tech Stack:** Java, Spring Boot, Oracle DB, Bash  
-- Mission-critical systems ensuring 99.9% uptime.
-- MFA & role-based access for enhanced security.  
-[🔗 View Repo](#)
+### 🏗️ Nox Metals Frontend
+**Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Zustand, React Hook Form, Zod, Axios, Headless UI, Lucide React  
+- Modern frontend for Nox Metals Product Management System.  
+- Javascript API deployed on Railway.
+- Database on AWS  
+[🔗 View Repo](https://github.com/greglacinto/nox-metals-frontend) | [🌐 Live Demo](https://nox-metals-frontend.vercel.app)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Gregory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gregoryjs&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryjs&layout=compact&theme=radical)
+![Gregory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=greglacinto&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greglacinto&layout=compact&theme=radical)
 
 ---
 
