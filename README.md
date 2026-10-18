@@ -31,7 +31,7 @@ I'm Greg, a full-stack engineer in Windsor, Ontario. I'm the founding engineer a
   </tr>
 </table>
 
-### Projects
+### Other Projects
 
 **InboxAgent — AI email-to-database agent**\
 *TypeScript, NestJS, Claude API, Postgres, BullMQ*
