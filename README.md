@@ -1,10 +1,35 @@
 I'm Greg, a full-stack engineer in Windsor, Ontario. I'm the founding engineer at Nox Metals (YC S25), working in TypeScript, Next.js and Postgres. Before that I was tech lead at Apex Shine, where I built two React Native apps and the NestJS backend behind them, with Stripe payments and over-the-air releases. Earlier I built banking APIs at CWG and UBA.
 
+<p><img src="https://skillicons.dev/icons?i=ts,nestjs,nextjs,react,postgres,supabase,aws,docker" alt="TypeScript, NestJS, Next.js, React, Postgres, Supabase, AWS, Docker"></p>
+
 ### Things I've shipped
-- [Nox Metals](https://noxmetals.co), instant quoting for aluminum plate
-- [Odynix](https://www.odynix.tech), web, mobile and data development for startups
-- [ApexShine: Cleaning on Demand](https://apps.apple.com/ca/app/apexshine-cleaning-on-demand/id6746707857)
-- [ApexShine Pro for Cleaners](https://apps.apple.com/ca/app/apexshine-pro-for-cleaners/id6754331878)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://noxmetals.co"><img src="assets/nox.jpg" alt="Nox Metals homepage" width="100%"></a><br>
+      <b><a href="https://noxmetals.co">Nox Metals</a></b><br>
+      Instant quoting for aluminum plate
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.odynix.tech"><img src="assets/odynix.jpg" alt="Odynix homepage" width="100%"></a><br>
+      <b><a href="https://www.odynix.tech">Odynix</a></b><br>
+      Web, mobile and data development for startups
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/ca/app/apexshine-cleaning-on-demand/id6746707857"><img src="assets/apexshine.jpg" alt="ApexShine customer app screens" width="100%"></a><br>
+      <b><a href="https://apps.apple.com/ca/app/apexshine-cleaning-on-demand/id6746707857">ApexShine: Cleaning on Demand</a></b><br>
+      Customer app for booking home cleaning (iOS)
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/ca/app/apexshine-pro-for-cleaners/id6754331878"><img src="assets/apexshine-pro.jpg" alt="ApexShine Pro cleaner app screens" width="100%"></a><br>
+      <b><a href="https://apps.apple.com/ca/app/apexshine-pro-for-cleaners/id6754331878">ApexShine Pro for Cleaners</a></b><br>
+      Companion app for cleaners to take and run jobs (iOS)
+    </td>
+  </tr>
+</table>
 
 ### Projects
 
